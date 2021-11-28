@@ -1,9 +1,9 @@
 {
     "name": "Base 64 Bot",
     "description": "Telegram Bot to Encode & Decode Text",
-    "repository": "https://github.com/DeccanBotz/Base64",
-    "logo": "https://telegra.ph/file/91c3fff375e5ab70b43ea.jpg",
-    "keywords": ["DeccanBotz", "Base64", "Encoder", "Decoder"],
+    "repository": "https://github.com/alarskmoedig/Base64",
+    "logo": "https://telegra.ph/file/d12d92a45694db015926b.jpg",
+    "keywords": ["alarskmoedig", "Base64", "Encoder", "Decoder"],
     "env":{
         "BOT_TOKEN":{
             "description":"Your Bot Token from @Botfather",
